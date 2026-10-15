@@ -1,0 +1,93 @@
+
+[
+  {
+    "playerName": "Arif Hasan",
+    "playerImg": "https://placehold.co/300x300?text=Arif+Hasan",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm off-break",
+    "battingType": "Right-hand bat",
+    "price": 400
+  },
+  {
+    "playerName": "Rahul Sharma",
+    "playerImg": "https://placehold.co/300x300?text=Rahul+Sharma",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingType": "Right-hand bat",
+    "price": 500
+  },
+  {
+    "playerName": "David Miller",
+    "playerImg": "https://placehold.co/300x300?text=David+Miller",
+    "origin": "South Africa",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off-break",
+    "battingType": "Left-hand bat",
+    "price": 1000
+  },
+  {
+    "playerName": "James Anderson",
+    "playerImg": "https://placehold.co/300x300?text=James+Anderson",
+    "origin": "England",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingType": "Right-hand bat",
+    "price": 700
+  },
+  {
+    "playerName": "Kane Williams",
+    "playerImg": "https://placehold.co/300x300?text=Kane+Williams",
+    "origin": "New Zealand",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off-break",
+    "battingType": "Right-hand bat",
+    "price": 850
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "https://placehold.co/300x300?text=Pat+Cummins",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingType": "Right-hand bat",
+    "price": 400
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://placehold.co/300x300?text=Rashid+Khan",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg-break",
+    "battingType": "Right-hand bat",
+    "price": 800
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "https://placehold.co/300x300?text=Babar+Azam",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off-break",
+    "battingType": "Right-hand bat",
+    "price": 300
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://placehold.co/300x300?text=Shakib+Al+Hasan",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "battingType": "Left-hand bat",
+    "price": 450
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImg": "https://placehold.co/300x300?text=Trent+Boult",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingType": "Left-hand bat",
+    "price": 550
+  }
+]
